@@ -3,5 +3,3 @@ O algoritmo de casamento de strings é uma técnica fundamental em ciência da c
 
 # Linguagem usada:
 C
-
-[![Demonstração do Projeto](https://img.youtube.com/vi/SEU_CODIGO_DE_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO_DE_VIDEO)
